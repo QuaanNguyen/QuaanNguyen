@@ -1,5 +1,5 @@
 ### Quan Nguyen | System Engineer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quannguyen-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QuaanNguyen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </p>
