@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **quannguyenanhnaq@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuaanNguyen&" alt="quaannguyen" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=QuaanNguyen&" alt="quaannguyen" /></p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuaanNguyen&theme=github-compact" />
 </p>
