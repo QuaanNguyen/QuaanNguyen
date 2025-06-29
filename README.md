@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">System Engineer | AI Enthusiast</h3>
 
+- 👨🏽‍💻 I'm currently pursuing Master in Computer Engineering
+
 - 🔭 I’m currently working on **Fit.ai**
 
 - 🌱 I’m currently learning **Python, C/C++**
