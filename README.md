@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">System Engineer | AI Enthusiast</h3>
 
-- 👨🏽‍💻 I'm currently pursuing Master in Computer Engineering
+- 👨🏽‍💻 Upcoming MS CEN @ [ASU](https://www.asu.edu/)
 
 - 🔭 I’m currently working on **Fit.ai**
 
