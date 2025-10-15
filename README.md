@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">System Engineer | AI Enthusiast</h3>
 
-- 👨🏽‍💻 Upcoming MS CEN @ [ASU](https://www.asu.edu/)
+- 👨🏽‍💻 Fine-tuning myself in MS CEN @ [ASU](https://www.asu.edu/)
 
-- 🔭 I’m currently working on **Fit.ai**
+- 🔭 I’m currently working on **UChain**
 
-- 🌱 I’m currently learning **Python, C/C++**
+- 🌱 I’m currently learning **Python, SQL, and CUDA**
 
 - 👨‍💻 All of my projects are available at [https://www.quannguyen.dev](https://www.quannguyen.dev)
 
