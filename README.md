@@ -3,11 +3,11 @@
 
 - 👨🏽‍💻 Fine-tuning myself in MS CEN @ [ASU](https://www.asu.edu/)
 
-- 🔭 I’m currently working on **UChain**
+- 🐿️ I’m currently working on **Chip**
 
-- 🌱 I’m currently learning **Python, SQL, and CUDA**
+- 🌱 I’m currently learning **Python, CUDA, and ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://www.quannguyen.dev](https://www.quannguyen.dev)
+- 👨‍💻 Learn more about me at [https://www.quannguyen.dev](https://www.quannguyen.dev)
 
 - 📫 How to reach me **quannguyenanhnaq@gmail.com**
 
