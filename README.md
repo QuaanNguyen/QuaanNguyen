@@ -3,13 +3,15 @@
 
 - 👨🏽‍💻 Fine-tuning myself in MS CEN @ [ASU](https://www.asu.edu/)
 
-- 🐿️ I’m currently working on **Chip**
+- 🔥 Just published **Fill: Loan Officer's Companion**
 
-- 🌱 I’m currently learning **MCP, DevOps, and AI Pipeline**
+- 🐿️ I’m currently working on **Edge LLM Duel**
 
-- 👨‍💻 Learn more about me at [https://www.quannguyen.dev](https://www.quannguyen.dev)
+- 🌱 Learning/Building **Agent Skills, LLM Deployment on Edge, and Probability & Statistics**
 
-- 📫 How to reach me **quannguyenanhnaq@gmail.com**
+- 👨‍💻 Peep my pics @ [https://www.quannguyen.dev](https://www.quannguyen.dev)
+
+- 📫 Work with me @ **quannguyenanhnaq@gmail.com**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuaanNguyen&theme=github-compact" />
