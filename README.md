@@ -5,7 +5,7 @@
 
 - 🔥 Just published **Fill: Loan Officer's Companion**
 
-- 🐿️ I’m currently working on **Edge LLM Duel**
+- 🐿️ I’m currently working on **MiniBench**
 
 - 🌱 Learning/Building **Agent Skills, LLM Deployment on Edge, and Probability & Statistics**
 
