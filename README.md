@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">System Engineer | AI Enthusiast</h3>
+<h3 align="center">Software Developer | AI in Healthcare | Inference Power Monitor on Edge Tech</h3>
 
 - 👨🏽‍💻 Fine-tuning myself in MS CEN @ [ASU](https://www.asu.edu/)
 
